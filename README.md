@@ -1,1 +1,1 @@
-![image](https://github.com/cecilymp1/l4/assets/149554230/7b4e7008-c595-4c55-9e80-019d4612184a)
+Predicting land acquisition cost and forest change across Massachusetts using machine learning models to predict a) the cost of protection and b) forest loss across 177,277 parcels in Massachusetts
